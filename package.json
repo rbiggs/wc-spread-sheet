@@ -1,0 +1,16 @@
+{
+  "name": "wc-spread-sheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/app.js",
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --dedupe --watch --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "es-dev-server": "^1.36.1"
+  }
+}
